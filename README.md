@@ -16,6 +16,7 @@ For full-stack applications create the app's models and associations.
 - [lucid chart can be used for model diagrams](https://www.lucidchart.com/)
 
 ## Architecture: 
+- structures SOLID, JS, ETC 
 
 
 
